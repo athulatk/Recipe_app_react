@@ -1,9 +1,17 @@
 .recipe{
     background-color: white;
     border: none;
+    margin: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-around;
     min-width: 40%;
+    border-radius: 30px;
     
+}
+.image{
+    border-radius: 10%;
+    width: 180px;
+    height: 180px;
 }
